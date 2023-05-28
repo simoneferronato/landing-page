@@ -1,17 +1,21 @@
+html, body {
+    overflow-x: hidden;
+}
+
 body {
     background-image: url(fundo.jpg);
     background-size: cover;
     color: white;
     text-align: left;
-    margin: 90px;
+    margin: 41.5px;
     font-family: 'Noto Serif', serif;
     
 }
 
 h1 {
-    font-size: 75px;
+    font-size: 85px;
     padding-top: 1px;
-    margin-bottom: 65px;
+    margin-bottom: 55px;
     margin: 2;
 }
 
@@ -21,13 +25,13 @@ p {
     opacity: 1;
 }
 
-    span {
-        color: rgb(12, 143, 19);
+span {
+    color: rgb(12, 143, 19);
 }
 
 ul {
     list-style: none;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 li {
@@ -43,7 +47,7 @@ ul li a {
 }
 
 .quarto-paragrafo {
-    margin-bottom: 54px;
+    margin-bottom: 40px;
 }
 
 .botao {
@@ -57,3 +61,13 @@ ul li a {
 .botao:hover {
     background-color: rgba(84, 243, 95, 0.966);
 } 
+
+ul.projetos {
+    text-align: left;
+    text-decoration: underline;
+    font-size: 1.5em;
+    padding: 0%;
+    margin-bottom: 40px;
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.5);
+
+}
