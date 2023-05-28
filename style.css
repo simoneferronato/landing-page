@@ -7,15 +7,15 @@ body {
     background-size: cover;
     color: white;
     text-align: left;
-    margin: 41.5px;
+    margin: 80px;
     font-family: 'Noto Serif', serif;
     
 }
 
 h1 {
-    font-size: 85px;
+    font-size: 80px;
     padding-top: 1px;
-    margin-bottom: 55px;
+    margin-bottom: 50px;
     margin: 2;
 }
 
@@ -31,7 +31,7 @@ span {
 
 ul {
     list-style: none;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 li {
@@ -47,7 +47,7 @@ ul li a {
 }
 
 .quarto-paragrafo {
-    margin-bottom: 40px;
+    margin-bottom: 1px;
 }
 
 .botao {
@@ -65,9 +65,9 @@ ul li a {
 ul.projetos {
     text-align: left;
     text-decoration: underline;
-    font-size: 1.5em;
+    font-size: 1.3em;
     padding: 0%;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
     text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.5);
 
 }
