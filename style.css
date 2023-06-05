@@ -7,20 +7,20 @@ body {
     background-size: cover;
     color: white;
     text-align: left;
-    margin: 82px;
+    margin: 70px;
     font-family: 'Noto Serif', serif;
     
 }
 
 h1 {
-    font-size: 80px;
+    font-size: 4em;
     padding-top: 1px;
     margin-bottom: 50px;
     margin: 2;
 }
 
 p {
-    font-size: 25px;
+    font-size: 20px;
     font-weight: bold;
     opacity: 1;
 }
@@ -42,12 +42,12 @@ ul li a {
     color: white;
     text-decoration: none;
     font-size: medium;
-    padding-left: 30px;
+    padding-left: 20px;
     margin-inline-start: 5px;
 }
 
 .quarto-paragrafo {
-    margin-bottom: 1px;
+    margin-bottom: 10px;
 }
 
 .botao {
@@ -55,7 +55,7 @@ ul li a {
     background-color: rgb(12, 143, 19);
     color: white;
     font-family: 'Noto Serif', serif;
-    padding-top: 1px 15px 1px 15px;
+    padding-top: 1px 10px 1px 15px;
 }
 
 .botao:hover {
@@ -69,5 +69,6 @@ ul.projetos {
     padding: 0%;
     margin-bottom: 50px;
     text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.5);
+    display: contents;
 
 }
