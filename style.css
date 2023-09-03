@@ -41,6 +41,7 @@ ul {
 
 li {
     display: inline;
+    
 }
 
 ul li a {
@@ -73,9 +74,8 @@ ul li a {
 ul.class {
     text-align: right;
     text-decoration: underline;
-    font-size: 1.1em;
-    padding: 0%;
-    margin-bottom: 50px;
+    font-size: 1.3em;
+    margin-bottom: 20px;
     text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
     display: contents;
 
