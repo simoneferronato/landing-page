@@ -7,7 +7,7 @@ body {
     background-size: cover;
     color: rgb(33, 31, 37);
     text-align: right;
-    margin: 70px;
+    margin: 67px;
     font-family: 'Noto Serif', serif;
     
 }
@@ -15,14 +15,14 @@ body {
 h1 {
     font-size: 4em;
     padding-top: 20px;
-    margin-bottom: 80px;
+    margin-bottom: 70px;
     text-align: right;
-    height: 80px;
+    height: 85px;
     
 }
 
 p {
-    font-size: 20px;
+    font-size: 22px;
     font-weight: bold;
     text-align: right;
     opacity: 1;
@@ -47,7 +47,7 @@ ul li a {
     color: black;
     text-decoration: none;
     font-size: large;
-    padding-left: 20px;
+    padding-left: 60px;
     text-align: right;
 }
 
@@ -76,7 +76,8 @@ ul.class {
     font-size: 1.1em;
     padding: 0%;
     margin-bottom: 50px;
-    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.5);
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
     display: contents;
 
 }
+
