@@ -3,10 +3,10 @@ html, body {
 }
 
 body {
-    background-image: url(fundo.jpg);
+    background-image: url(mesa-de-trabalho.jpg);
     background-size: cover;
-    color: white;
-    text-align: left;
+    color: rgb(33, 31, 37);
+    text-align: right;
     margin: 70px;
     font-family: 'Noto Serif', serif;
     
@@ -14,24 +14,29 @@ body {
 
 h1 {
     font-size: 4em;
-    padding-top: 1px;
-    margin-bottom: 50px;
-    margin: 2;
+    padding-top: 20px;
+    margin-bottom: 80px;
+    text-align: right;
+    height: 80px;
+    
 }
 
 p {
     font-size: 20px;
     font-weight: bold;
+    text-align: right;
     opacity: 1;
 }
 
 span {
-    color: rgb(12, 143, 19);
+    color: rgb(238, 13, 238);
 }
 
 ul {
-    list-style: none;
-    margin-top: 30px;
+    list-style: ;
+    line-height: ;
+    margin-top: 20px;
+    text-align: right;
 }
 
 li {
@@ -39,31 +44,34 @@ li {
 }
 
 ul li a {
-    color: white;
+    color: black;
     text-decoration: none;
-    font-size: medium;
+    font-size: large;
     padding-left: 20px;
-    margin-inline-start: 5px;
+    text-align: right;
 }
 
 .quarto-paragrafo {
-    margin-bottom: 10px;
+    margin-bottom: px;
+    text-align: right;
 }
 
 .botao {
     text-decoration: none;
-    background-color: rgb(12, 143, 19);
+    background-color: rgb(235, 18, 217, 0.966);
     color: white;
     font-family: 'Noto Serif', serif;
-    padding-top: 1px 10px 1px 15px;
+    
 }
 
 .botao:hover {
-    background-color: rgba(84, 243, 95, 0.966);
+    background-color: rgba(235, 18, 217, 0.966);
+    text-align: right;
+    padding-top: 1px 30px;
 } 
 
-ul.projetos {
-    text-align: left;
+ul.class {
+    text-align: right;
     text-decoration: underline;
     font-size: 1.1em;
     padding: 0%;
