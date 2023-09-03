@@ -1,6 +1,6 @@
 # Landing-Page
 
-## Meu primeiro "Hello Word!"
+## Meu primeiro "Hello World!"
 
 Atualmente estou em transição de carreira, estudando, aprendendo e amando esse mundo tech.
 
